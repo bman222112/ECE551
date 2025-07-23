@@ -1,4 +1,4 @@
-"# ECE 551" 
+# ECE 551
 This repository explores my experiments done on the subject of sound based machine learning for UNM's ECE 551 - Projects course
 
 The project is broken up into modules that walk through the full process, with appropriate comments for each. The dataset is included, and explained within Module 1.
